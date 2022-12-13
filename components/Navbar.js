@@ -34,9 +34,6 @@ export default function Navbar() {
                         <li>
                             <Link href="#clientpage" className="block text-[18px] text-[#BABABA] mt-2 rounded">Clients</Link>
                         </li>
-                        <li>
-                            <Link href="/" className="block text-[18px] text-[#BABABA] mt-2 rounded">Careers</Link>
-                        </li>
                         <li className="mt-2">
                             <Link href="#contactpage" className="bg-[#3D4C61] text-[15px] text-white font-redHat px-3 py-2 rounded">CONACT US</Link>
                         </li>
@@ -57,9 +54,6 @@ export default function Navbar() {
                         </li>
                         <li>
                             <Link href="#clientpage" className="block text-[18px] text-[#BABABA] mt-2 rounded">Clients</Link>
-                        </li>
-                        <li>
-                            <Link href="/" className="block text-[18px] text-[#BABABA] mt-2 rounded">Careers</Link>
                         </li>
                         <li>
                             <Link href="#contact" className="bg-[#3D4C61] text-[15px] text-white font-redHat px-3 py-2 rounded">CONACT US</Link>
