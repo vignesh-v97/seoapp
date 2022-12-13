@@ -7,7 +7,7 @@ export default function Navbar() {
         <nav className="bg-white border-gray-200 px-4 sm:px-4 py-4 sm:py-2.5 shadow">
             <div className="container flex flex-wrap items-center justify-between mx-auto max-w-7xl">
                 <Link href="/" className="flex items-center">
-                    <img src="/assets/logo.svg" className="h-12 sm:h-10" alt="Grids and Guides" />
+                    <img src="/assets/logo.svg" alt="Grids and Guides" />
                 </Link>
                 {!openMobileNav &&
                     <button onClick={() => setOpenMobileNav(!openMobileNav)} data-collapse-toggle="navbar-default" type="button" className="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200" aria-controls="navbar-default" aria-expanded="false">
