@@ -9,7 +9,7 @@ export default function ProcessCard({ count, text, desc, extraClass }) {
                 </div>
                 <img src="/assets/squres.png" alt="squares" className="h-10 mt-4" />
             </div>
-            <div className="p-6 sm:p-10">
+            <div className="p-6">
                 <p className="font-redHat text-[#3D4C61] text-[24px] font-700">{text}</p>
                 <p className="font-redHat text-[#696969] text-[16px] font-400 mt-1">
                     {desc}

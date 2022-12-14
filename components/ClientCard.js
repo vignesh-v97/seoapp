@@ -75,7 +75,7 @@ export default function ClientCard() {
             <div className="flex flex-col items-center justify-around md:flex-row">
                 <p className="font-900 text-[24px] sm:text-[35px] font-redHat">Our Clients</p>
                 <p className="font-400 text-[16px] font-redHat text-left md:w-2/5 md:text-center mt-5">
-                    Our prime motive is to inculcate the desires of the clients and yield a satisfactory response from them.
+                Our prime motive is to inculcate the desires of the clients and yield a satisfactory response from them.
                 </p>
             </div>
             <div className="relative my-10">

@@ -13,7 +13,7 @@ export default function HeroSectionSix() {
                 <img src="/assets/square2.png" alt="squares" className="mb-6 mr-2 h-10" />
                 <p className="text-[#3D4C61] font-900 text-[24px] sm:text-[35px] font-redHat">Benefits of <br /> Hiring From G and G</p>
                 <p className="text-[#3D4C61] font-400 text-[16px] font-redHat my-4">
-                    Commence with the easy-to-hire process for development task and design needs accessing the proficient developers who deduce the results that work.
+                We are approached for hiring developers and programmers for diverse technology needs by overcoming any business challenges, ensuring quality, timeline and affordability
                 </p>
             </div>
         </div>

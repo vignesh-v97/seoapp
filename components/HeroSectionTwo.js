@@ -13,8 +13,10 @@ export default function HeroSectionTwo() {
                         <img src="/assets/squres.png" alt="squares" className="w-10 sm:w-6 h-10 sm:h-6 mr-2" />
                         Why choose us?
                     </p>
-                    <p className="text-[#696969] font-400 text-[16px] text-justify md:px-0 md:text-left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-                        It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <p className="text-[#696969] font-400 text-[16px] text-justify md:px-0 md:text-left">Grids & Guides offers access to high profiled skills and solutions with brilliant developers who can execute the tools and techniques in the technology that produces the best in class solutions for any size of assignment. We develop client-side solutions to generate robust and interactive user experience in exchange of immense traffic to the web applications irrespective of the business vertical or dimension.
+                    Hire the best and most suitable developers for any industry to build persuasive frontend development and up-gradation that are irreproachable for liable markets and users<br/>
+                    Hire a team to develop your app from scratch or hire individual talents to join existing team at multiple levels, G&G is your go to solution provider for all levels of expertise in development<br/>
+                    Our Professional engineers possess strong exposure in every segment of development in the domain like</p>
                 </div>
             </div>
         </div>
